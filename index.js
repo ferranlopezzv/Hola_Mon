@@ -1,2 +1,2 @@
 console.log("inici")
-console.log("hola lunes")
+console.log("hola mon existeixo")
